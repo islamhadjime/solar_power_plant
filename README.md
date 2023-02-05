@@ -4,7 +4,7 @@
 
 Макет  для верстки очень простого лендинга сайта солнечных панелей.
 
-![Alt-текст](https://github.com/islamhadjime/google_sheets-WEB/blob/main/gif/SC.jpg "Solar power plant")
+![Alt-текст](https://github.com/islamhadjime/solar_power_plant/blob/main/assets/img/BLOCK.jpg "Solar power plant")
 
 
 
